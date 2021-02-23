@@ -1,5 +1,6 @@
 library calculator;
 
+// 计算类
 class Calculator {
 
   /// 通过 [height] 身高(m) 和 [weight] 体重(kg)，获取 BMI 指标
